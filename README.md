@@ -25,14 +25,14 @@ One download for Apple Silicon and Intel Macs. Requires macOS 11 Big Sur or late
 
 ## Update
 
-With Homebrew:
+From version 2.2.0, Sajilo Patro updates itself: it checks once a day, a dot appears on the
+popup's Settings button, and **Settings → About → Update & Relaunch** installs the new version.
+Updates are signed and verified before they are installed. You can also check now from the same
+place, or turn the daily check off.
 
-```bash
-brew upgrade --cask sajilo-patro
-```
-
-Or download the latest DMG above and replace the app in **Applications**. Your settings are kept.
-See [Releases](../../releases) for what's new in each version.
+On version 2.1.2 or earlier, update once by hand: `brew upgrade --cask sajilo-patro`, or download
+the latest DMG above and replace the app in **Applications**. Your settings are kept. See
+[Releases](../../releases) for what's new in each version.
 
 ## Features
 
@@ -42,7 +42,9 @@ See [Releases](../../releases) for what's new in each version.
   Click a day for its date, tithi and events.
 - **Upcoming events and holidays** with a countdown ("Tomorrow", "in 4 days"), and a BS → AD
   converter.
-- **Desktop widgets**: a Today card, a Month calendar and Upcoming events on your wallpaper.
+- **Desktop widgets**: a Today card, a Month calendar you can browse and click, and Upcoming
+  events on your wallpaper, on every Space.
+- **One-click updates** from Settings → About.
 - Light and Dark, opens at login, works offline. No account, no ads, no tracking.
 
 ## First launch
@@ -60,8 +62,10 @@ shasum -a 256 ~/Downloads/SajiloPatro*.dmg
 ## Pro
 
 Everything above is free. **Sajilo Patro Pro** (NPR 299, one time, for life, on two Macs) adds
-eight colour themes, the upcoming Ekadashi, Purnima and Aunsi list, and popup customisation (card
-opacity, accent colour, size and more). To get a licence key, use the
+twelve colour themes, each in light and dark or following macOS (Himalaya, Lali Gurans, Phewa,
+Mustang, Everest Night, Terai Sunset, Tihar Lights, Dhaka, Chitwan, Rara, Jacaranda and Barkha),
+the upcoming Ekadashi, Purnima and Aunsi list, and popup customisation (card opacity, accent
+colour, size and more). To get a licence key, use the
 [contact form](https://sarthaksharma.com.np/contact),
 [LinkedIn](https://www.linkedin.com/in/ssarthaks/) or email ssarthakxd@gmail.com.
 
