@@ -44,6 +44,10 @@ the latest DMG above and replace the app in **Applications**. Your settings are 
   converter.
 - **Desktop widgets**: a Today card, a Month calendar you can browse and click, and Upcoming
   events on your wallpaper, on every Space.
+- **Your own calendars**: events from the Mac's Calendar app and reminders with a due date on
+  their Nepali dates, from every account on your Mac, including **Google Calendar** (add your
+  Google account in System Settings → Internet Accounts), iCloud and Outlook. Turn it on in
+  Settings → My calendars. Read-only: Sajilo Patro never changes your calendars.
 - **One-click updates** from Settings → About.
 - Light and Dark, opens at login, works offline. No account, no ads, no tracking.
 
