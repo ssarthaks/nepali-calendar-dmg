@@ -6,7 +6,7 @@
 **Patrobar** (पात्रोबार) puts today's Bikram Sambat (BS) date in your Mac's menu bar, with
 Government of Nepal public holidays, festivals and tithi one click away. Free, private and offline.
 
-Website: **[nepali-calendar.sarthaksharma.com.np](https://nepali-calendar.sarthaksharma.com.np/)**
+Website: **[patrobar.sarthaksharma.com.np](https://patrobar.sarthaksharma.com.np/)**
 
 This repository only hosts the downloads (see [Releases](../../releases)). The source code is not
 public.
