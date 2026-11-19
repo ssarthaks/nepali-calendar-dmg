@@ -1,8 +1,5 @@
 # Patrobar — Nepali Calendar for Mac
 
-> **Sajilo Patro is now Patrobar** (version 2.4.0). Same app, new name. If you have Sajilo Patro
-> installed, it updates itself to Patrobar and keeps your settings and Pro licence.
-
 **Patrobar** (पात्रोबार) puts today's Bikram Sambat (BS) date in your Mac's menu bar, with
 Government of Nepal public holidays, festivals and tithi one click away. Free, private and offline.
 
