@@ -26,7 +26,7 @@ One download for Apple Silicon and Intel Macs. Requires macOS 11 Big Sur or late
 ## Update
 
 From version 2.2.0, Patrobar updates itself: it checks once a day, a dot appears on the
-popup's Settings button, and **Settings → About → Update & Relaunch** installs the new version.
+popup's Settings button, and **Settings → Pro & About → Update & Relaunch** installs the new version.
 Updates are signed and verified before they are installed. You can also check now from the same
 place, or turn the daily check off.
 
@@ -40,8 +40,19 @@ the latest DMG above and replace the app in **Applications**. Your settings are 
   your own layout, as plain text or in a frame, with or without the icon.
 - **Month calendar** with AD dates, public holidays, festivals and every day of Dashain and Tihar.
   Click a day for its date, tithi and events.
-- **Upcoming events and holidays** with a countdown ("Tomorrow", "in 4 days"), and a BS → AD
-  converter.
+- **Upcoming events and holidays** with a countdown ("Tomorrow", "in 4 days"), and a converter
+  for BS → AD, AD → BS, ages and the days between two dates.
+- **My events on Nepali dates**: birthdays, anniversaries and shraddha that repeat every year on
+  their BS date (or, with Pro, on a tithi), shown in the calendar, the Events tab and the widgets.
+  Five are free.
+- **Your district's holidays**: choose your district and its local holidays (Indra Jatra, Fagu
+  Purnima…) count as days off.
+- **Search** with ⌘F in Nepali or English, keyboard controls, a shortcut to open the calendar
+  from anywhere, a month and year picker, and copying any date.
+- **Calendar file**: save a year's holidays, festivals and your events as an .ics file for
+  Calendar or Google Calendar.
+- **For Nepalis abroad**: the time in Nepal in the popup and the menu bar, and sunrise and sunset
+  for any district.
 - **Desktop widgets**: a Today card, a Month calendar you can browse and click, and Upcoming
   events on your wallpaper, on every Space.
 - **Your own calendars**: events from the Mac's Calendar app and reminders with a due date on
@@ -65,8 +76,9 @@ shasum -a 256 ~/Downloads/Patrobar*.dmg
 
 ## Pro
 
-Everything above is free. **Patrobar Pro** (NPR 299, one time, for life, on two Macs) adds
-twelve colour themes, each in light and dark or following macOS (Himalaya, Lali Gurans, Phewa,
+Nearly everything above is free. **Patrobar Pro** (NPR 299, one time, for life, on two Macs) adds
+reminders (holidays, festivals, your events and a morning summary), events by tithi and more than
+five of your own events, twelve colour themes, each in light and dark or following macOS (Himalaya, Lali Gurans, Phewa,
 Mustang, Everest Night, Terai Sunset, Tihar Lights, Dhaka, Chitwan, Rara, Jacaranda and Barkha),
 the upcoming Ekadashi, Purnima and Aunsi list, and popup customisation (card opacity, accent
 colour, size and more). To get a licence key, use the
